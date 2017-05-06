@@ -1,7 +1,7 @@
 # Supervised Learning
 In general, the following resources were the go to guide, subsequent concepts have specific and detailed resources
-* The Machine Learning Basics chapter of ** deeplearning book **
-*  Machine Learning * A Probabilistic Perspective * - ** Kevin Murphy **
+* The Machine Learning Basics chapter of **deeplearning book**
+*  Machine Learning *A Probabilistic Perspective* - **Kevin Murphy**
 ## Inductive Bias
 
 * [Wikipedia Link](https://en.wikipedia.org/wiki/Inductive_bias)
