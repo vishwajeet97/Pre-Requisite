@@ -33,8 +33,7 @@ In general, the following resources was the go to guide, subsequent concepts hav
 * [Lecture Note 3 of CS229](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
 
 ## Parameters vs Hyper-Parameters
-deeplearningbook
-[Blog post by dswalter](https://dswalter.github.io/blog/overfitting-regularization-hyperparameters/)
+* [Blog post by dswalter](https://dswalter.github.io/blog/overfitting-regularization-hyperparameters/)
 
 ## Training Validation Testing
-deeplearningbook
+* deeplearningbook
