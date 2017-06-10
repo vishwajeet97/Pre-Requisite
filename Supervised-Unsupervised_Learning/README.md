@@ -26,6 +26,7 @@ In general, the following resources was the go to guide, subsequent concepts hav
 * [Excellent explanation of linear vs non-linear regression](https://stats.stackexchange.com/questions/148638/how-to-tell-the-difference-between-linear-and-non-linear-regression-models/148713#148713)
 * [Blog on interpretation of logistic regression](http://www.dataschool.io/guide-to-logistic-regression/)
 * [Regularization Explained](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+* [Loss function of Logistic Regression is convex](http://mathgotchas.blogspot.in/2011/10/why-is-error-function-minimized-in.html)
 
 ## Linear Support Vector Machines
 * [Wikipedia link](https://en.wikipedia.org/wiki/Support_vector_machine)
