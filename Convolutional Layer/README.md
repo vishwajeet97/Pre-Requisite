@@ -13,3 +13,10 @@
 
 ## Visualization of ConvNet
 [Working of ConvNet](http://scs.ryerson.ca/~aharley/vis/conv/)
+
+## Understanding CNN
+* [Visualizing the Conv layers](http://cs231n.github.io/understanding-cnn/)
+* [Deep Visualization](http://yosinski.com/deepvis)
+
+## Weight Initialization
+* [An Explanation of Xavier Initialization](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
